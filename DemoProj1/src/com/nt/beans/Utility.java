@@ -7,9 +7,9 @@ public class Utility {
 	public Date sysDate() {
 		return new Date();
 	}
-	
+
 	public void m1() {
-		System.out.println("m1() method - abcd");
+		System.out.println("m1() method - 1234");
 	}
 
 }

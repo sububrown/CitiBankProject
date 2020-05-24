@@ -25,5 +25,9 @@ public class Utility {
 	public void m4() {
 		System.out.println("Utility.m5()");
 	}
+	
+	public void m7() {
+		System.out.println("Utility.m7()");
+	}
 
 }
